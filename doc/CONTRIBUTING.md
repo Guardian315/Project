@@ -47,7 +47,7 @@ I'm again borrowing these from [Facebook's Guidelines](https://github.com/facebo
 * 2 spaces for indentation rather than tabs
 * You can try running `npm run lint` for style unification
 
-## License
+# License
 By contributing, you agree that your contributions will be licensed under its MIT License.
 
 ## References
